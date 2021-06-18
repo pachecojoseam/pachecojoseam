@@ -39,7 +39,7 @@
 
 
 
-### MSSQL  
+### BASE DE DADOS: MSSQL  
   
 
 
@@ -88,14 +88,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pachecojoseam&&style=flat-square" align="center" />
